@@ -5,7 +5,7 @@ import {
     ImageBackground,
     TextInput,
     Dimensions,
-    TouchableOpacity
+    TouchableOpacity,
 } from 'react-native';
 import * as Animatable from 'react-native-animatable';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
